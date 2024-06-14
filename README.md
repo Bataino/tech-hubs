@@ -455,6 +455,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Grazac Co-working space](https://www.grazac.com.ng/innovation)
   Sam Ewang Housing Estate, PROHUB, Salawu Olabode Avenue, Idi-aba, Road, Abeokuta, Ogun state.
 
+- [Techlava Hub](https://www.techlava.ng)
+  Kola Adebayo Building Opposite FUNAAB Zoo Alabata, Abeokuta 110100, Ogun State.
+
 ## Osun
 
 - [MicrolabACE](https://twitter.com/AceMicrolab)
